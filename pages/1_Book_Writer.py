@@ -42,8 +42,8 @@ st.set_page_config(page_title="AI Kids Book Writer",
                    layout='centered',
                    initial_sidebar_state='expanded')
 
-st.header("AI Kids Book Writer")
-st.write("Made for Andrew, William, Peter, Isaiah and Annie!")
+st.header("AI Kids Book Writer :book:")
+st.write("Made for the McGill kiddos")
 password = st.sidebar.text_input("Password to use the app")
 st.sidebar.write("Made by Aunty Niki :two_hearts:")
 
